@@ -1,0 +1,10 @@
+### 配置列表
+* CPU: I7-8700
+* 显卡: uhd 630核显
+* 主板：微星MSI Z370-A Pro
+* 无线网卡蓝牙：Intel AX200 PCI-E
+* MacOS版本：Sequoia 15.0.1 (24A348)
+* 引导加载程序：OpenCore 1.0.2
+
+### 截图
+![关于本机](screenshot/mac_info.png)
